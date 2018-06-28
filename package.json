@@ -1,0 +1,17 @@
+{
+  "name": "deploytonow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-engine": "^1.1.2",
+    "apollo-server": "^2.0.0-rc.5",
+    "graphql": "^0.13.2"
+  }
+}
